@@ -5,7 +5,7 @@ VALUES ("Field"), ("Office"), ("Finance"), ("Legal");
 
 INSERT INTO role (title, salary, department_id)
 VALUES
-    ("Manager", 100000, 2),
+    ("Managers", 100000, 2),
     ("Chemist", 120000, 2),
     ("Investigator", 90000, 1),
     ("Janitor", 50000, 2),
