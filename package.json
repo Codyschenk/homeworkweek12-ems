@@ -1,0 +1,33 @@
+{
+  "name": "employeeDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lc-mar",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "ds-store": "^0.1.6",
+    "inquirer": "^8.1.1",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lc-mar/manageyouremployeesgdangit.git"
+  },
+  "keywords": [
+    "inquirer",
+    "MySQL",
+    "command-line",
+    "nsode"
+  ],
+  "bugs": {
+    "url": "https://github.com/lc-mar/manageyouremployeesgdangit/issues"
+  },
+  "homepage": "https://github.com/lc-mar/manageyouremployeesgdangit#readme"
+}
